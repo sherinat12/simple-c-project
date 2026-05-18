@@ -162,8 +162,8 @@ C_Projects/
 │── Employee_Payroll_System/
 │   │── employee_payroll.c
 │
-│── Hospital_Management_System/
-│   │── hospital_management.c
+│──  Student Grade Calculator/
+│   │──  Student_Grade_Calculator.c
 │
 │── README.md
 
