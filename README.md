@@ -64,28 +64,33 @@ The system provides a simple and user-friendly menu-driven interface with colore
 
 ---
 
-# 🏥 Hospital Management System
+# 📚 Student Grade Calculator
 
 ## 📌 Description
-A Hospital Management System developed using C programming.  
-This project is used to store and manage patient details in a simple and efficient way.
-
-The system allows users to add patient records and display patient information using a menu-driven interface.
+A Student Grade Calculator developed using C programming.  
+This project calculates total marks, average, and grade based on student marks.
 
 ### 🎯 Features
-- Add patient details
-- View patient records
-- Menu-driven interface
-- Easy patient management
-- Simple and user-friendly system
+- Enter student marks
+- Calculate total and average
+- Display student grade
+- Simple and user-friendly interface
+- Colored console output
 
 ---
 
-# 🛠️ Technologies Used
-- C Programming Language
-- GCC Compiler
-- VS Code / CodeBlocks
+## ▶️ How to Run
 
+### Compile
+gcc student_grade_calculator.c -o grade
+
+### Run
+./grade
+
+(For Windows)
+grade.exe
+
+---
 ---
 
 # ▶️ How to Run
