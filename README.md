@@ -46,6 +46,24 @@ Users can book train tickets and view reservation details.
 
 ---
 
+# 👨‍💼 Employee Payroll Management System
+
+## 📌 Description
+An Employee Payroll Management System developed using C programming.  
+This project helps to store and manage employee details such as employee ID, employee name, and salary information.
+
+The system provides a simple and user-friendly menu-driven interface with colored console output for better readability.
+
+### 🎯 Features
+- Add employee details
+- View employee records
+- Salary management
+- Colored console interface
+- Menu-driven system
+- Simple payroll management
+
+---
+
 # 🏥 Hospital Management System
 
 ## 📌 Description
@@ -111,6 +129,19 @@ railway.exe
 
 ---
 
+## Employee Payroll Management System
+
+### Compile
+gcc employee_payroll.c -o payroll
+
+### Run
+./payroll
+
+(For Windows)
+payroll.exe
+
+---
+
 ## Hospital Management System
 
 ### Compile
@@ -136,6 +167,9 @@ C_Projects/
 │── Railway_Reservation_System/
 │   │── railway_reservation.c
 │
+│── Employee_Payroll_System/
+│   │── employee_payroll.c
+│
 │── Hospital_Management_System/
 │   │── hospital_management.c
 │
@@ -144,7 +178,7 @@ C_Projects/
 ---
 
 # 👩‍💻 Author
-- Raja Sherina T
+- Your Name
 
 ---
 
