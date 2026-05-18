@@ -133,16 +133,17 @@ payroll.exe
 
 ---
 
-## Hospital Management System
+
+## ▶️ How to Run
 
 ### Compile
-gcc hospital_management.c -o hospital
+gcc student_grade_calculator.c -o grade
 
 ### Run
-./hospital
+./grade
 
 (For Windows)
-hospital.exe
+grade.exe
 
 ---
 
