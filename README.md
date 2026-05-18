@@ -134,7 +134,7 @@ payroll.exe
 ---
 
 
-## 
+##  Student Grade Calculator
 
 ### Compile
 gcc student_grade_calculator.c -o grade
