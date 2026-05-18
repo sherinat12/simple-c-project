@@ -79,20 +79,6 @@ This project calculates total marks, average, and grade based on student marks.
 
 ---
 
-## ▶️ How to Run
-
-### Compile
-gcc student_grade_calculator.c -o grade
-
-### Run
-./grade
-
-(For Windows)
-grade.exe
-
----
----
-
 # ▶️ How to Run
 
 ## ATM Banking System
