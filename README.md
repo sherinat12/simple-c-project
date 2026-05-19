@@ -160,6 +160,9 @@ gcc student_grade_calculator.c -o grade
 grade.exe
 
 ---
+
+## Number Guessing Game
+
 ### Compile
 gcc number_guessing_game.c -o guess
 
