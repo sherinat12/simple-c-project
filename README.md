@@ -78,6 +78,20 @@ This project calculates total marks, average, and grade based on student marks.
 - Colored console output
 
 ---
+# 🎯 Number Guessing Game
+
+## 📌 Description
+A Number Guessing Game developed using C programming.  
+The computer generates a random number, and the user tries to guess it.
+
+### 🎯 Features
+- Random number generation
+- User guessing system
+- Attempt counter
+- Colored console interface
+- Fun and interactive gameplay
+
+---
 
 # ▶️ How to Run
 
