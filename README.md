@@ -160,6 +160,16 @@ gcc student_grade_calculator.c -o grade
 grade.exe
 
 ---
+### Compile
+gcc number_guessing_game.c -o guess
+
+### Run
+./guess
+
+(For Windows)
+guess.exe
+
+---
 
 # 📂 Project Structure
 
