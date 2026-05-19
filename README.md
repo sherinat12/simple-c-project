@@ -189,10 +189,10 @@ C_Projects/
 │── Employee_Payroll_System/
 │   │── employee_payroll.c
 │
-│──  Student Grade Calculator/
+│──  Student_Grade_Calculator/
 │   │──  Student_Grade_Calculator.c
 |
-│── Employee_Payroll_System/
+│── Number_Guessing_Game/
 │   │── number_guessing_game.c
 |
 │── README.md
