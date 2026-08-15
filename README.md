@@ -13,7 +13,7 @@ Users can check balance, deposit money, and withdraw money.
 ### 🎯 Features
 - Check balance
 - Deposit money
-- Withdraw money
+- Withdraw money 
 - Colored console UI
 - Menu-driven program
 
