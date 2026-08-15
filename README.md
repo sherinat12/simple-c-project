@@ -11,7 +11,7 @@ A simple ATM Banking System developed using C programming.
 Users can check balance, deposit money, and withdraw money.
 
 ### 🎯 Features           
-- Check balance
+- Check balance 
 - Deposit money
 - Withdraw money 
 - Colored console UI
