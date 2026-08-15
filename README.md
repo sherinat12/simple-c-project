@@ -59,7 +59,7 @@ The system provides a simple and user-friendly menu-driven interface with colore
 - View employee records
 - Salary management
 - Colored console interface
-- Menu-driven system
+- Menu-driven system 
 - Simple payroll management
 
 ---
