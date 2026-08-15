@@ -1,5 +1,5 @@
 # 💻 C Mini Projects Collection
-
+ 
 This repository contains multiple mini projects developed using the C programming language.
 
 ---
