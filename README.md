@@ -5,14 +5,14 @@ This repository contains multiple mini projects developed using the C programmin
 ---
 
 # 🏧 ATM Banking System
-
+ 
 ## 📌 Description
 A simple ATM Banking System developed using C programming.  
 Users can check balance, deposit money, and withdraw money.
-
+   
 ### 🎯 Features           
 - Check balance 
-- Deposit money
+- Deposit money 
 - Withdraw money    
 - Colored console UI 
 - Menu-driven program
