@@ -14,7 +14,7 @@ Users can check balance, deposit money, and withdraw money.
 - Check balance 
 - Deposit money
 - Withdraw money    
-- Colored console UI
+- Colored console UI 
 - Menu-driven program
 
 ---
