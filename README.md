@@ -101,7 +101,7 @@ The computer generates a random number, and the user tries to guess it.
 gcc atm_system.c -o atm
 
 ### Run
-./atm
+./atm 
 
 (For Windows)
 atm.exe
